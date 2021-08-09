@@ -8,6 +8,8 @@
 
 受 [ApacheCN](https://apachecn.org/#/)、[禅与宇宙维修艺术](https://www.cosmosrepair.com/) 以及 [the-guide-of-confronting-capital](https://github.com/mesondzh/the-guide-of-confronting-capital) 项目启发，提出 **魔法生活** 理念，希望能在自己和他人之间产生哪怕一丁点儿的 **魔法效应**。
 
+[![Stargazers over time](https://starchart.cc/mesondzh/magic-life.svg)](https://starchart.cc/mesondzh/magic-life)
+
 ## 魔法要义
 > 当商品的交换价值完全由数字衡量，数字便成为了收割灵魂的工具。
 
