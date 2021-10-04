@@ -10,9 +10,10 @@
 
 [![Stargazers over time](https://starchart.cc/mesondzh/magic-life.svg)](https://starchart.cc/mesondzh/magic-life)
 
-* 项目地址：[GitHub](https://github.com/mesondzh/magic-life) | [Notion](https://www.notion.so/mesondzh/ff9ed598f52848de866e6aa098f5805e)
+* 项目地址：[GitHub](https://github.com/mesondzh/magic-life) | [Notion](https://www.notion.so/mesondzh/ff9ed598f52848de866e6aa098f5805e) | [magic-life](https://mesondzh.github.io/magic-life/)
 
 ## 魔法要义
+
 > 当商品的交换价值完全由数字衡量，数字便成为了收割灵魂的工具。
 
 * 逆向思维与叛逆心理
