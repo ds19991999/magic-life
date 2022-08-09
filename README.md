@@ -25,6 +25,7 @@
 * Hack thinking, hack life
 * 时间和身体永远是无价的
 * 学会营销自己，展示自身价值
+* 浪漫至死不渝
 
 ## 魔法口诀
 * 第一句：**Use magic to defeat magic**
