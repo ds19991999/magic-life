@@ -22,7 +22,7 @@
 * 工作是为了生活
 * 规则永远存在 BUG
 * 上层思维与底层建筑
-* Hack thinking, hack life
+* Hack thinking, magic life
 * 时间和身体永远是无价的
 * 学会营销自己，展示自身价值
 * 浪漫至死不渝
