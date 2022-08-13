@@ -30,7 +30,7 @@
 ## 魔法口诀
 * 第一句：**Use magic to defeat magic**
 * 第二句：**Lie flat till death**
-* 第三句：**Hack thinking, hack life**
+* 第三句：**Hack thinking, magic life**
 
 ## 魔法领域
 * 数字生活
